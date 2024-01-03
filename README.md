@@ -35,4 +35,6 @@ Data dictionary for [advertisments.csv](https://github.com/ryanellis5/logregads/
 8. Scale features using a Standard Scalar
 9. Instantiate new logistic regression on new scaled data
 10. Get score (AUC = 0.933856840833585)
-# Scaled data is much better so I would suggest scaling data before running a regression on it. 
+
+# Conclusions 
+The AUC on the scaled data is much better so I would suggest scaling data before running a logistic regression on it. 
