@@ -7,7 +7,7 @@ We are tasked to create a model that would predict if a specific customer would 
 We have been working with 400 data points that    
 
 
-[Notebook](https://github.com/ryanellis5/logregads/blob/main/project_advertisement_classifier.ipynb))
+[Notebook](https://github.com/ryanellis5/logregads/blob/main/project_advertisement_classifier.ipynb)
 
 
 **Data dictionary** 
