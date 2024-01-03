@@ -11,7 +11,7 @@ We have been working with 400 data points that
 
 
 **Data dictionary** 
-Data dictionary for [advertisments.csv]([./advertisments.csv]):
+Data dictionary for [advertisments.csv](https://github.com/ryanellis5/logregads/blob/main/advertisments.csv):
 
 
 				
